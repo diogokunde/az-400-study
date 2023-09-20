@@ -5,7 +5,7 @@ on: push
 jobs:
   teste:
     runs-on: ubuntu-latest
-    name: ola-mundo
+    name: ola, mundo
     steps:
       - run: "echo hello world!"
       
